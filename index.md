@@ -1,2 +1,4 @@
 # Elona Development 
-## Elona
+## Kurallar
+
+**1.**

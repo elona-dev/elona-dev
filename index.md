@@ -1,6 +1,7 @@
 # Elona Development 
 
  ## Bilgilendirme
+ 
  5 tane uyarı alırsanız sunucudan yasaklanırsınız.
  Sunucuda cinsiyet, ırk, dil farketmesizin her kullanıcıya aynı kurallar ve cezalar geçerlidir.
  Sunucuda bulunmanız bu kuralları okuduğunuzu ve kabul ettiğinizi gösterir.

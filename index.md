@@ -3,6 +3,10 @@
  ## Bilgilendirme
  5 tane uyarı alırsanız sunucudan yasaklanırsınız.
  Sunucuda cinsiyet, ırk, dil farketmesizin her kullanıcıya aynı kurallar ve cezalar geçerlidir.
+ Sunucuda bulunmanız bu kuralları okuduğunuzu ve kabul ettiğinizi gösterir.
+ Eğer kullanıcı haksızlığa uğruyorsa yönetime itiraz edebilir, ama yönetim haksız bulursa ceza yaptırımı arttırılabilir.
+ Kurallar değişkendir, bundan dolayı düzenli olarak burayı kontrol etmeniz önerilir.
+ Herhangi bir kural değişiminde bildiğiniz varsayılır.
  Discord TOS kural ihlalinde bulunamazsınız. Bknz. [DISCORD TOS](https://discord.com/terms)
 
 # KURALLAR
@@ -30,7 +34,7 @@ A. **Sunucudan yasaklanırsınız.**
 A. **Kullanıcı on iki saatlik susturulma cezası alır.**
 
 ## Herhangi bir varlığa yönelik şiddet yasaktır.
-A. **Bu bir kurum olabilir canlı veya cansız varlık olabilir uyarı alırsınız.
+A. **Bu bir kurum olabilir canlı veya cansız varlık olabilir uyarı alırsınız.**
 
 ## Herhangi bir varlığa yönelik aşağılama vb. yasaktır.
 A. **Uyarı alırsınız, devam edilirse susturma cezası alırsınız.**

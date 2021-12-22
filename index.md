@@ -32,5 +32,8 @@ A. **Kullanıcı on iki saatlik susturulma cezası alır.**
 ## Herhangi bir varlığa yönelik şiddet yasaktır.
 A. **Bu bir kurum olabilir canlı veya cansız varlık olabilir uyarı alırsınız.
 
-## Herhangi bir varlığa yönelik aşağılama vb. yasaktır
+## Herhangi bir varlığa yönelik aşağılama vb. yasaktır.
 A. **Uyarı alırsınız, devam edilirse susturma cezası alırsınız.**
+
+## Kanalları amacı dışında kullanmak yasaktır.
+A. **Uyarı alırsınız.**

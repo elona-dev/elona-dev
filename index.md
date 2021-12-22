@@ -1,4 +1,4 @@
 # Elona Development 
-## Kurallar
 
-**1.**
+
+**1. Küfür argo yasaktır**

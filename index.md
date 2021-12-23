@@ -42,3 +42,7 @@ A. **Uyarı alırsınız, devam edilirse susturma cezası alırsınız.**
 
 ## Kanalları amacı dışında kullanmak yasaktır.
 A. **Uyarı alırsınız.**
+
+## Spoiler vb. spoiler tagı kullanıldığı sürece yasak değildir.
+A. **Ilk olarak uyarı alırsınız sonrasında 2 günlük susturma alırsınız.**
+B. **Örnek kullanım:** ||Xx dizisinde xx karakteri ölüyor.||
